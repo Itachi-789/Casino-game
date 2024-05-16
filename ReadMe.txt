@@ -1,5 +1,5 @@
 Casino Game
-Welcome to the Pig Game! This is a two-player game where the objective is to be the first to reach a total score of 100 points. Each player takes turns rolling a six-sided die, accumulating points with each roll, but risking losing all their points for that turn if they roll a one.
+Welcome to the Casino Game! This is a two-player game where the objective is to be the first to reach a total score of 100 points. Each player takes turns rolling a six-sided die, accumulating points with each roll, but risking losing all their points for that turn if they roll a one.
 
 Rules:
 Objective: The goal is to reach a total score of 100 points or more.
@@ -17,7 +17,7 @@ The turn ends when the player decides to hold or rolls a one.
 Winning: The first player to reach or exceed 100 points wins the game.
 
 How to Play:
-Setup: Clone or download the Pig Game repository to your local machine.
+Setup: Clone or download the Casino Game repository to your local machine.
 
 Run the Game: Open the terminal or command prompt, navigate to the game directory, and run the game script.
 
